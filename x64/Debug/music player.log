@@ -1,5 +1,0 @@
-﻿  music player.cpp
-C:\Users\User\source\repos\music player\music player\music player.cpp(132,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  play_liste.cpp
-  Generating Code...
-  music player.vcxproj -> C:\Users\User\source\repos\music player\x64\Debug\music player.exe
